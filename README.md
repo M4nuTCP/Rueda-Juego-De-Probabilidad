@@ -1,5 +1,5 @@
 # Rueda-Juego-De-Probabilidad
-Juego de Probabilidad (Rueda)
+Probability Game (Roulette))
 
 The Probability Game (Roulette) This code represents a small roulette simulator game. It starts by including some standard libraries and defining functions to display roulette graphics and manage the player's money. It begins by setting variables such as the player's money and configuring the console to support UTF-8 characters. Then, a main menu is presented, offering options to get information about the roulette, play, manage money, or exit the game.
 
