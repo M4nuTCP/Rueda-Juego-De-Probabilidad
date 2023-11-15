@@ -1,10 +1,17 @@
 # Rueda-Juego-De-Probabilidad
 Juego de Probabilidad (Rueda)
-Este código representa un pequeño juego simulador de ruleta. Al principio, se incluyen algunas bibliotecas estándar y se definen funciones para mostrar gráficos de la ruleta y gestionar el dinero del jugador. Se inicia estableciendo variables como la cantidad de dinero que tiene el jugador y configurando la consola para admitir caracteres UTF-8. Luego, se presenta un menú principal que ofrece opciones para obtener información sobre la ruleta, jugar, gestionar el dinero o salir del juego.
 
-La sección de información proporciona detalles históricos sobre el juego de la ruleta. En el juego en sí, los usuarios pueden realizar apuestas en números, colores, par/impar o grupos específicos de números. El código verifica si las apuestas son válidas en términos de números o tipo de apuesta, y gestiona el saldo del jugador en consecuencia.
+The Probability Game (Roulette) This code represents a small roulette simulator game. It starts by including some standard libraries and defining functions to display roulette graphics and manage the player's money. It begins by setting variables such as the player's money and configuring the console to support UTF-8 characters. Then, a main menu is presented, offering options to get information about the roulette, play, manage money, or exit the game.
 
-La simulación de la ruleta se lleva a cabo generando aleatoriamente un número entre 0 y 36, simulando así el giro de la ruleta. El código muestra gráficos visuales de la ruleta y notifica al jugador si su apuesta fue ganadora o perdedora. El bucle principal permite al jugador seguir apostando o salir del juego. Además, el programa maneja situaciones en las que el saldo del jugador llega a cero, indicándole que ha perdido todo su dinero.
+The information section provides historical details about the roulette game. In the actual game, users can place bets on numbers, colors, even/odd, or specific groups of numbers. The code checks if the bets are valid in terms of numbers or bet types and manages the player's balance accordingly.
+
+The roulette simulation is carried out by randomly generating a number between 0 and 36, simulating the roulette spin. The code displays visual roulette graphics and notifies the player if their bet was a winner or loser. The main loop allows the player to continue betting or exit the game. Additionally, the program handles situations where the player's balance reaches zero, indicating they have lost all their money.
+
+
+
+
+
+
 
 https://github.com/ManuGalan/Rueda-Juego-De-Probabilidad/assets/96147300/0c5c7874-39cd-4e32-8f64-620e6628703a
 
